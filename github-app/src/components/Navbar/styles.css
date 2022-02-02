@@ -1,0 +1,16 @@
+.main-nav {
+  padding-left: 20px;
+  min-height: 62px;
+  background-color: #1890ff; 
+  color: #ffffff;
+}
+
+.main-nav h4 {
+  font-size: 24px;
+}
+
+@media (min-width: 576px) {
+  .main-nav {
+    padding-left: 40px;
+  }
+}
